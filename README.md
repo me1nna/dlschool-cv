@@ -19,6 +19,7 @@
   <li><p><a href='https://github.com/me1nna/dlschool-1-2024/tree/main/Semantic%20segmentation'>Семантическая сегментация изображений</a>. Реализация SegNet, U-Net. Имплементация и использование функций потерь Dice coefficient, Focal loss.</p></li>
   <hr>
   <li><p><a href='https://github.com/me1nna/dlschool-1-2024/tree/main/Generative%20model%20and%20encoders'>Автоэнкодеры</a>. Реализация Vanilla Autoencoder (создание лиц людей, добавление улыбки на "грустные" лица). Реализация Variational Autoencoder на датасете MNIST. Изображение латентных векторов картинок точками в двумерном просторанстве. Реализация Conditional VAE.</p></li>
+  <hr>
   <li><p><a href='https://github.com/me1nna/dlschool-1-2024/tree/main/GAN'>Генеративно-состязательные модели</a>. Подготовка данных, построение и обучение модели. Генерация изображений, реализация Leave-one-out-1-NN classifier accuracy для оценки качества сгенерированных картинок.
 </p></li>
 </ul>
