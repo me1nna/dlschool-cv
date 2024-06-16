@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Computer vision</h1>
+<h1>Deep learning school (computer vision)</h1>
 
 <ul>
   <li><p><a href='https://github.com/me1nna/dlschool-1-2024/tree/main/Linear%20models'>Линейные модели</a>. Реализация градиентного спуска и генератора батчей. Создание класса для логистической регрессии. Реализация регуляризаций.</p></li>
