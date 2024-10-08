@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>PyTorch implementations of cv-algorithms</h1>
-
+<h1>PyTorch Implementations of CV-algorithms</h1>
+<br>
 <ul>
   <li><p><a href='https://github.com/me1nna/dlschool-1-2024/tree/main/Linear%20models'>Линейные модели</a>. Реализация градиентного спуска и генератора батчей. Создание класса для логистической регрессии. Реализация регуляризаций.</p></li>
   <hr>
